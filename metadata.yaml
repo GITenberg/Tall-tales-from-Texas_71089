@@ -1,0 +1,40 @@
+_repo: Tall-tales-from-Texas_71089
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Dobie, J. Frank (James Frank)
+    aliases:
+    - Dobie, James Frank
+    - Dobie, Frank
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '176'
+    url: http://www.gutenberg.org/2009/agents/176
+    wikipedia: https://en.wikipedia.org/wiki/J._Frank_Dobie
+  illustrator:
+    agent_name: Keefer, Elizabeth
+    gutenberg_agent_id: '56069'
+    url: http://www.gutenberg.org/2009/agents/56069
+creator:
+  author:
+    agent_name: Boatright, Mody Coggin
+    gutenberg_agent_id: '56068'
+    url: http://www.gutenberg.org/2009/agents/56068
+description: ''
+gutenberg_issued: '2023-07-02'
+identifiers:
+  gutenberg: '71089'
+language: en
+pgterms:marc905: 20230504120317boatright
+pgterms:marc906: '1934'
+pgterms:marc907: US
+production_note: Carol Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Southwest Press, $c1934.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tall tales from Texas
+url: http://www.gutenberg.org/ebooks/71089
